@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *NEXUS-BOT*`
+ *TREKKER-MD*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -78,7 +78,7 @@ else {
      }
  } else {
 
-    if(!superUser) { repondre ("NEXUS AI") ; return};
+    if(!superUser) { repondre ("TREKKER MD") ; return};
 
   
     const texte = arg.join(' ').split(';')[0];

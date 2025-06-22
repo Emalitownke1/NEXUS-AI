@@ -31,8 +31,8 @@ zokou({
   });
   moment.tz.setDefault("Etc/GMT");
   const _0x30b447 = moment().format("DD/MM/YYYY");
-  let _0x5810f6 = "\n╭━━✧★☞  𝐍𝐄𝐗𝐔𝐒-𝐀𝐈  😾💜✧━━❖\n┊✺┌────••••────⊷\n┃★│◎ Owner : " + s.OWNER_NAME + "\n┃★│◎ Prefix : [ " + s.PREFIXE + " ]\n┃★│◎ Mode : " + _0x2fb207 + "\n┃★│◎ Ram : 8/132 GB\n┃★│◎ Date : " + _0x30b447 + "\n┃★│◎ Platform : " + os.platform() + "\n┃★│◎ Creator : PK Driller\n┃★│◎ Commands : " + _0x3f91bc.length + "\n┃★│◎ Theme : NEXUS-AI\n┊   └────••••────⊷\n╰━━━••✧NEXUS-AI✧••━━━◆\n";
-  let _0x499730 = "𝐍𝐄𝐗𝐔𝐒 𝐀𝐈 𝐌𝐄𝐍𝐔";
+  let _0x5810f6 = "\n╭━━✧★☞  𝐓𝐑𝐄𝐊𝐊𝐄𝐑-𝐌𝐃  😾💜✧━━❖\n┊✺┌────••••────⊷\n┃★│◎ Owner : " + s.OWNER_NAME + "\n┃★│◎ Prefix : [ " + s.PREFIXE + " ]\n┃★│◎ Mode : " + _0x2fb207 + "\n┃★│◎ Ram : 8/132 GB\n┃★│◎ Date : " + _0x30b447 + "\n┃★│◎ Platform : " + os.platform() + "\n┃★│◎ Creator : PK Driller\n┃★│◎ Commands : " + _0x3f91bc.length + "\n┃★│◎ Theme : TREKKER-MD\n┊   └────••••────⊷\n╰━━━••✧TREKKER-MD✧••━━━◆\n";
+  let _0x499730 = "𝐓𝐑𝐄𝐊𝐊𝐄𝐑 𝐌𝐃 𝐌𝐄𝐍𝐔";
   for (const _0x297db1 in _0x4b68cd) {
     _0x499730 += "\n╭━━━❂ *" + _0x297db1 + "* ❂━━─••\n║╭━━══••══━━••⊷ ";
     for (const _0x38505c of _0x4b68cd[_0x297db1]) {

@@ -204,7 +204,7 @@ zokou({
         text: pairingCode,
         contextInfo: {
           externalAdReply: {
-            title: "NEXUS-AI CODE",
+            title: "TREKKER-MD CODE",
             body: "Here is your pairing code:",
             mediaType: 1,
             thumbnailUrl: conf.URL, 
