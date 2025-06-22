@@ -1,5 +1,5 @@
 {
-  "name":"NEXUS-AI",
+  "name":"TREKKER-MD",
   "description":"Best whatsapp bot💥 developed by   Pkdriller 🇰🇪 ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/pdhcob.jpeg",
@@ -58,7 +58,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"NEXUS-AI",
+      "value":"TREKKER-MD",
       "required":false
 
     } ,
@@ -97,7 +97,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "NEXUS-AI"
+    "value": "TREKKER-MD"
   },
     "NUMERO_OWNER":
   {

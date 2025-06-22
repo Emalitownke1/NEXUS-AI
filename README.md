@@ -1,9 +1,9 @@
-# NEXUS-AI 
+# TREKKER-MD 
 
 <!-- Glowing Header -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=☣️+NEXUS+AI+VERSION;👻+The+Best+Simple+WhatsApp+Bot+Across+The+Glob;💻+Crafted+by+Pkdriller💀;🐕‍🦺+Next-Generation+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=☣️+TREKKER+MD+VERSION;👻+The+Best+Simple+WhatsApp+Bot+Across+The+Glob;💻+Crafted+by+Pkdriller💀;🐕‍🦺+Next-Generation+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <!-- Banner Image -->
@@ -44,7 +44,7 @@ Fork this repo and give it a ⭐ to support Pkdriller!
 
 #### 🟣 Heroku
 ---
-[![Deploy on Heroku](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Pkdriller01/NEXUS-AI)
+[![Deploy on Heroku](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Pkdriller01/TREKKER-MD)
 
 ---
 
@@ -94,7 +94,7 @@ Fork this repo and give it a ⭐ to support Pkdriller!
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+NEXUS+AI+Edition+by+Pkdriller👻;⚡+The+Best+Simple+WhatsApp+Bot+Allover+The+Glob" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+TREKKER+MD+Edition+by+Pkdriller👻;⚡+The+Best+Simple+WhatsApp+Bot+Allover+The+Glob" alt="Footer Animation">
 </h3>
 
 <p align="center">

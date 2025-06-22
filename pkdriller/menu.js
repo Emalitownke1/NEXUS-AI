@@ -40,7 +40,7 @@ zokou({
     }
     _0x499730 += "\n║╰━━══••══━━••⊷\n╰════────════◆◆◆";
   }
-  _0x499730 += "\n> @NEXUS AI\n";
+  _0x499730 += "\n> @TREKKER MD\n";
   try {
     await _0x35dd19.sendMessage(_0x466846, {
       'text': _0x5810f6 + _0x499730,
@@ -49,11 +49,11 @@ zokou({
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
           'newsletterJid': "120363288304618280@newsletter",
-          'newsletterName': "NEXUS-AI",
+          'newsletterName': "TREKKER-MD",
           'serverMessageId': 0x8f
         },
         'externalAdReply': {
-          'title': "NEXUS AI",
+          'title': "TREKKER MD",
           'body': "Tap to join the official channel",
           'thumbnailUrl': "https://files.catbox.moe/q99uu1.jpg",
           'mediaType': 0x1,

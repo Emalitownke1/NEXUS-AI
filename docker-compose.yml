@@ -2,9 +2,9 @@
 version: '3.8'
 
 services:
-  nexus-ai:
+  trekker-md:
     build: .
-    container_name: nexus-ai-bot
+    container_name: trekker-md-bot
     ports:
       - "3000:3000"
     environment:
