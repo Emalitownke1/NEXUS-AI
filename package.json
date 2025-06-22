@@ -109,7 +109,12 @@
   "main": "pkdriller.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node pkdriller.js"
+    "start": "node pkdriller.js",
+    "dev": "node pkdriller.js",
+    "docker:build": "docker build -t nexus-ai .",
+    "docker:run": "docker run -p 3000:3000 nexus-ai",
+    "docker:compose": "docker-compose up -d",
+    "docker:logs": "docker-compose logs -f"
   },
   "keywords": [
     "termux",

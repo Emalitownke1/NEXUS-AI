@@ -10,3 +10,14 @@ run = ["sh", "-c", "node pkdriller.js"]
 [[ports]]
 localPort = 3000
 externalPort = 80
+
+[workflows]
+
+[[workflows.workflow]]
+name = "Docker Build"
+author = 40441729
+mode = "sequential"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "docker build -t nexus-ai ."
