@@ -78,7 +78,7 @@ zokou({ nomCom: "link", categorie: 'Group', reaction: "🙋" }, async (dest, zk,
 
   let mess = `hello ${nomAuteurMessage} , here is the group link for ${nomGroupe} \n
 
-Group link :${lien} \n\n©NEXUS-AI 𝐬𝐜𝐢𝐞𝐧𝐜𝐞`
+Group link :${lien} \n\n©TREKKER_MD 𝐬𝐜𝐢𝐞𝐧𝐜𝐞`
   repondre(mess)
 
 
@@ -732,7 +732,7 @@ zokou({ nomCom: "xxxxxxxxx", reaction: "✨", categorie: "Recherche" }, async (d
 
     const downloadLink = appData.dllink;
     const captionText =
-      "『 *Nexus ai Application* 』\n\n*Name :* " + appData.name +
+      "『 *TREKKER_MD Application* 』\n\n*Name :* " + appData.name +
       "\n*Id :* " + appData["package"] +
       "\n*Last Update :* " + appData.lastup +
       "\n*Size :* " + appData.size +

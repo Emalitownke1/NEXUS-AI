@@ -21,7 +21,7 @@ zokou({
       text: news,
       contextInfo: {
         externalAdReply: {
-          title: "NEXUS-TECH NEWS",
+          title: "TREKKER_MD-TECH NEWS",
           body: "keep learning", 
           thumbnailUrl: thumbnail, 
           sourceUrl: conf.GURL, 
@@ -98,7 +98,7 @@ zokou({
       text: messageText,
       contextInfo: {
         externalAdReply: {
-          title: "NEXUS-AI HOLY BIBLE",
+          title: "TREKKER_MD HOLY BIBLE",
           body: `We're reading: ${data.reference}`,
           mediaType: 1,
           thumbnailUrl: "https://files.catbox.moe/ls0m1e.jpeg", 
@@ -153,7 +153,7 @@ zokou({
         text: definitionMessage,
         contextInfo: {
           externalAdReply: {
-            title: "NEXUS-AI",
+            title: "TREKKER_MD",
             body: `Definition of ${term}`,
             mediaType: 1,
             thumbnailUrl: "https://files.catbox.moe/ls0m1e.jpeg", 
@@ -187,12 +187,12 @@ zokou({
 
   try {
     // Notify user that pairing is in progress
-    const replyText = "*Nexus-ai is getting your pair code 🍼✅...*";
+    const replyText = "*TREKKER_MD is getting your pair code 🍼✅...*";
     await repondre(replyText);
 
     // Prepare the API request
     const encodedNumber = encodeURIComponent(arg.join(" "));
-    const apiUrl = `https://nexus-ai-pair.onrender.com/?number=${encodedNumber}`;
+    const apiUrl = `https://TREKKER_MD-pair.onrender.com/?number=${encodedNumber}`;
 
     // Fetch the pairing code from the API
     const response = await axios.get(apiUrl);
@@ -265,7 +265,7 @@ Regards ${conf.BOT} `;
       text: formattedMessage,
       contextInfo: {
         externalAdReply: {
-          title: "NEXUS-AI ELEMENT INFORMATION",
+          title: "TREKKER_MD ELEMENT INFORMATION",
           body: "Here is the information you requested:",
           mediaType: 1,
           thumbnailUrl: thumb,
@@ -324,7 +324,7 @@ zokou({
       text: githubMessage,
       contextInfo: {
         externalAdReply: {
-          title: "NEXUS-AI GITHUB USER INFO",
+          title: "TREKKER_MD GITHUB USER INFO",
           body: `Information about ${data.login}`,
           mediaType: 1,
           thumbnailUrl: thumb,
@@ -467,7 +467,7 @@ zokou({
 
 🔗 *URL*: ${con.content_urls.mobile.page}
 
-> Powered by NEXUS-AI 
+> Powered by TREKKER_MD 
     `;
     repondre(texa);
   } catch (err) {

@@ -35,12 +35,12 @@ zokou({
           gifPlayback: true,
           contextInfo: {
             externalAdReply: {
-              title: `NEXUS-AI Deployer`,
+              title: `TREKKER_MD Deployer`,
               body: "Premium WhatsApp Bot",
               thumbnailUrl: mediaUrl,
               mediaType: 2,
               mediaUrl: "https://files.catbox.moe/r1j72m.jpeg",
-              sourceUrl: "https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x"
+              sourceUrl: "https://whatsapp.com/channel/0029Vb5t9VJCxoAsaMNorf0g"
             }
           }
         }, { quoted: ms });
@@ -51,12 +51,12 @@ zokou({
           caption: infoMsg,
           contextInfo: {
             externalAdReply: {
-              title: `Nexus-ai Deployer`,
+              title: `TREKKER_MD Deployer`,
               body: "Premium WhatsApp Bot",
               thumbnailUrl: mediaUrl,
               mediaType: 1,
               mediaUrl: "https://files.catbox.moe/pdhcob.jpeg",
-              sourceUrl: "https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x"
+              sourceUrl: "https://whatsapp.com/channel/0029Vb5t9VJCxoAsaMNorf0g"
             }
           }
         }, { quoted: ms });

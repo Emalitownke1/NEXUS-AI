@@ -152,7 +152,7 @@ const {
     const _0x19afe6 = _0x5488b4.attrs.expiration;
     const _0x794f96 = "I cannot add @" + _0x4766bc.split('@')[0x0] + " due to privacy settings, Let me send an invite link instead.";
     await _0x132613(_0x794f96);
-    let _0x599fb8 = "You have been invited to join the group " + _0x1fd727.subject + ":\n\nhttps://chat.whatsapp.com/" + _0x36611d + "\n\n*POWERED BY NEXUS-AI*";
+    let _0x599fb8 = "You have been invited to join the group " + _0x1fd727.subject + ":\n\nhttps://chat.whatsapp.com/" + _0x36611d + "\n\n*POWERED BY TREKKER_MD*";
     await _0x4375b2.sendMessage(_0x4766bc, {
       'image': {
         'url': _0x3f6faa
@@ -483,13 +483,13 @@ zokou({
       let _0x5838c2 = _0x269fcd.name || _0x269fcd.notify || "[𝙹𝙰𝙼𝙴𝚂𝚃𝙴𝙲𝙷] +" + _0x23a8f8;
       _0x4a6ecd += "BEGIN:VCARD\nVERSION:3.0\nFN:" + _0x5838c2 + "\nTEL;type=CELL;type=VOICE;waid=" + _0x23a8f8 + ':+' + _0x23a8f8 + "\nEND:VCARD\n";
     }
-    await _0x2e5b52("A moment, *Nexus-ai* is compiling " + _0x267c2d.length + " contacts into a vcf...");
+    await _0x2e5b52("A moment, *TREKKER_MD* is compiling " + _0x267c2d.length + " contacts into a vcf...");
     await _0x511dab.writeFileSync("./contacts.vcf", _0x4a6ecd.trim());
     await _0xbcbdad.sendMessage(_0x1ec21c, {
       'document': _0x511dab.readFileSync("./contacts.vcf"),
       'mimetype': "text/vcard",
       'fileName': _0x38463f.subject + '.Vcf',
-      'caption': "VCF for " + _0x38463f.subject + "\nTotal Contacts: " + _0x267c2d.length + "\n*𝚃𝙷𝙰𝙽𝙺𝚂 𝙵𝙾𝚁 𝚄𝚂𝙸𝙽𝙶 Nexus-ai *"
+      'caption': "VCF for " + _0x38463f.subject + "\nTotal Contacts: " + _0x267c2d.length + "\n*𝚃𝙷𝙰𝙽𝙺𝚂 𝙵𝙾𝚁 𝚄𝚂𝙸𝙽𝙶 TREKKER_MD *"
     }, {
       'ephemeralExpiration': 0x15180,
       'quoted': _0x48a83b

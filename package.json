@@ -111,8 +111,8 @@
   "scripts": {
     "start": "node pkdriller.js",
     "dev": "node pkdriller.js",
-    "docker:build": "docker build -t nexus-ai .",
-    "docker:run": "docker run -p 3000:3000 nexus-ai",
+    "docker:build": "docker build -t TREKKER_MD .",
+    "docker:run": "docker run -p 3000:3000 TREKKER_MD",
     "docker:compose": "docker-compose up -d",
     "docker:logs": "docker-compose logs -f"
   },

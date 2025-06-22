@@ -88,13 +88,13 @@ zokou({ nomCom: "url", categorie: "General", reaction: "💗" }, async (origineM
         // Respond with the URL based on media type
         switch (mediaType) {
             case 'image':
-                repondre(`Nexus  url: ${catboxUrl}`);
+                repondre(`TREKKER_MD  url: ${catboxUrl}`);
                 break;
             case 'video':
-                repondre(`Nexus  url: ${catboxUrl}`);
+                repondre(`TREKKER_MD  url: ${catboxUrl}`);
                 break;
             case 'audio':
-                repondre(`Nexus  url: ${catboxUrl}`);
+                repondre(`TREKKER_MD  url: ${catboxUrl}`);
                 break;
             default:
                 repondre('An unknown error occurred.');

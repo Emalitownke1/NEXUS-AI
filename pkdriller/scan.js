@@ -37,7 +37,7 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
  *Tap on the link to get session👑get connected by pkdriller*
   
- https://nexus-qr-code-1-caxd.onrender.com/
+ https://TREKKER_MD-qr-code-1-caxd.onrender.com/
  
  
  *STEPS TO GET SESSION*
@@ -60,7 +60,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper nexus-ai" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper TREKKER_MD" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -125,7 +125,7 @@ const date = moment().format('DD/MM/YYYY');
    *Pk tech IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/pkdriller/NEXUS-AI 
+> https://github.com/pkdriller/TREKKER_MD 
 
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y

@@ -19,12 +19,12 @@ zokou({
   try {
     // Notify user that pairing is in progress
 
-    await repondre("Nexus-ai is generating your pairing code ✅...");
+    await repondre("TREKKER_MD is generating your pairing code ✅...");
 
     // Prepare the API request
     const encodedNumber = encodeURIComponent(arg.join(" "));
     // Fetch the pairing code from the API
-    const response = await axios.get(`https://nexus-qr-code-1-caxd.onrender.com/code?number=${encodedNumber}`);
+    const response = await axios.get(`https://TREKKER_MD-qr-code-1-caxd.onrender.com/code?number=${encodedNumber}`);
     const data = response.data;
     if (data && data.code) {
       const pairingCode = data.code;
@@ -34,13 +34,13 @@ zokou({
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363288304618280@newsletter',
-            newsletterName: "Nexus-ai",
+            newsletterName: "TREKKER_MD",
             serverMessageId: 143
           },
           forwardingScore: 999,
           // Score to indicate it has been forwarded
           externalAdReply: {
-            title: "NEXUS-AI",
+            title: "TREKKER_MD",
             body: "Here is your pairing code",
             thumbnailUrl: 'https://files.catbox.moe/pdhcob.jpeg',
             // Add thumbnail URL if required 

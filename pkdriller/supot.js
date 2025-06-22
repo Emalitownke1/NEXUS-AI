@@ -18,15 +18,15 @@ zokou({
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
                 newsletterJid: '120363317462952356@newsletter',
-                newsletterName: "nexus σғғɪᴄᴇ",
+                newsletterName: "TREKKER_MD σғғɪᴄᴇ",
                 serverMessageId: 143,
             },
             forwardingScore: 999, // Score to indicate it has been forwarded
             externalAdReply: {
-                title: "Nexus-ai",
+                title: "TREKKER_MD",
                 body: "Next Generation",
                 thumbnailUrl: 'https://files.catbox.moe/pdhcob.jpeg', // Add thumbnail URL if required 
-                sourceUrl: 'https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x', // Add source URL if necessary
+                sourceUrl: 'https://whatsapp.com/channel/0029Vb5t9VJCxoAsaMNorf0g', // Add source URL if necessary
                 mediaType: 1,
                 renderLargerThumbnail: true
             }

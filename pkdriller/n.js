@@ -23,7 +23,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("thís cσmmαnd ís rєstríctєd tσ thє вσt σwnєr. σr Nexus-ai σwnєr");
+    return repondre("thís cσmmαnd ís rєstríctєd tσ thє вσt σwnєr. σr TREKKER_MD σwnєr");
   }
 
   // Validate user input and respond accordingly
@@ -65,7 +65,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("thís cσmmαnd ís rєstríctєd tσ thє вσt σwnєr. σr nexus-ai σwnєr");
+    return repondre("thís cσmmαnd ís rєstríctєd tσ thє вσt σwnєr. σr TREKKER_MD σwnєr");
   }
 
   // Validate user input and respond accordingly
@@ -106,7 +106,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("thís cσmmαnd ís rєstríctєd tσ thє вσt σwnєr. σr nexus-ai σwnє");
+    return repondre("thís cσmmαnd ís rєstríctєd tσ thє вσt σwnєr. σr TREKKER_MD σwnє");
   }
 
   // Validate user input and respond accordingly
@@ -146,7 +146,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or nexus-ai owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or TREKKER_MD owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -187,7 +187,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or nexus-ai owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or TREKKER_MD owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -228,7 +228,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Nexus-ai owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or TREKKER_MD owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -269,7 +269,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Nexus owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or TREKKER_MD owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -310,7 +310,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Nexus owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or TREKKER_MD owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -350,7 +350,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Nexus owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or TREKKER_MD owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -390,7 +390,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Nexus owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or TREKKER_MD owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -431,7 +431,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Nexus owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or TREKKER_MD owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -472,7 +472,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Nexus owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or TREKKER_MD owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -513,7 +513,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Nexus-ai owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or TREKKER_MD owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -554,7 +554,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Nexus owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or TREKKER_MD owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -595,7 +595,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Nexus owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or TREKKER_MD owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -636,7 +636,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Nexus owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or TREKKER_MD owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -676,7 +676,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Nexus owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or TREKKER_MD owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -716,7 +716,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Nexus owner.* 💀,,idiot");
+    return repondre("*This command is restricted to the bot owner or TREKKER_MD owner.* 💀,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -774,7 +774,7 @@ zokou({
     { nom: "CHAT_BOT", choix: ['on', 'off'] }
   ];
 
-  let settingsMenu = "╭──────༺♡༻──────╮\n  Nexus-ai\n╰──────༺♡༻──────╯\n\n";
+  let settingsMenu = "╭──────༺♡༻──────╮\n  TREKKER_MD\n╰──────༺♡༻──────╯\n\n";
   settingsOptions.forEach((option, index) => {
     settingsMenu += `${index + 1}- *${option.nom}*\n`;
   });
@@ -794,7 +794,7 @@ zokou({
   });
 
   const selectedOption = settingsOptions[userChoice.message.extendedTextMessage.text - 1];
-  let settingsDetail = `╭──────༺♡༻──────╮\n  Nexus ai\n╰──────༺♡༻──────╯\n\n`;
+  let settingsDetail = `╭──────༺♡༻──────╮\n  TREKKER_MD\n╰──────༺♡༻──────╯\n\n`;
   settingsDetail += `*Variable Name* : ${selectedOption.nom}\n`;
   settingsDetail += `*Description* : ${getDescriptionFromEnv(selectedOption.nom)}\n\n`;
   settingsDetail += "┌────── ⋆⋅☆⋅⋆ ──────┐\n\n";

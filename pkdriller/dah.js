@@ -69,7 +69,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x`) 
+                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029Vb5t9VJCxoAsaMNorf0g`) 
 
    
 
@@ -89,7 +89,7 @@ zokou({ nomCom: 'group1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap Here To Join TREKKER-MD Chatroom*. https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x `) 
+                 await repondre(`*Tap Here To Join TREKKER-MD Chatroom*. https://whatsapp.com/channel/0029Vb5t9VJCxoAsaMNorf0g `) 
 
    
 
@@ -139,7 +139,7 @@ zokou({ nomCom: 'vision',
 
 
   
-zokou({ nomCom: 'Nexus',
+zokou({ nomCom: 'TREKKER_MD',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '♻️', 
@@ -188,8 +188,8 @@ zokou({ nomCom: 'hack2',
     "SENDING LOG DOCUMENTS...",
     "SUCCESSFULLY SENT DATA AND Connection disconnected",
     "BACKLOGS CLEARED",
-    "POWERED BY NEXUS-AI",
-    "By Nexus-ai`) 
+    "POWERED BY TREKKER_MD",
+    "By TREKKER_MD`) 
 
    
 

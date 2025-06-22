@@ -95,7 +95,7 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zk.sendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029Vb5t9VJCxoAsaMNorf0g`},{quoted :ms})
 
 })
 
@@ -108,7 +108,7 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "🦁" }, async (de
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 *Welcome to Nexus-ai* here is the developer numbers:\n\n";
+    let message = "👋 *Welcome to TREKKER_MD* here is the developer numbers:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }

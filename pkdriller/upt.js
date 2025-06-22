@@ -36,7 +36,7 @@ zokou({
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
           'newsletterJid': "120363288304618280@newsletter",
-          'newsletterName': "NEXUS-AI",
+          'newsletterName': "TREKKER_MD",
           'serverMessageId': 0x8f
         },
         'forwardingScore': 0x3e7,
@@ -44,7 +44,7 @@ zokou({
           'title': "Bot Runtime",
           'body': " Uptime: " + runtime(process.uptime()),
           'thumbnailUrl': "https://files.catbox.moe/ts2az9.jpg",
-          'sourceUrl': "https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x",
+          'sourceUrl': "https://whatsapp.com/channel/0029Vb5t9VJCxoAsaMNorf0g",
           'mediaType': 0x1,
           'renderLargerThumbnail': true
         }

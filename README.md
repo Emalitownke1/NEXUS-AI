@@ -28,13 +28,13 @@
 ### ⭐ Fork & Star the Repository
 Fork this repo and give it a ⭐ to support Pkdriller!
 
-[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/Pkdriller01/NEXUS-AI/fork)
+[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/Pkdriller01/TREKKER_MD/fork)
 
 ---
 
 ### 💙 Pairing Code 💚 Session Generator💜
 
-[![Pair Code](https://img.shields.io/badge/Google-Pair%20Code-blue?style=for-the-badge&logo=Google)](https://nexus-ai-website-theta.vercel.app/)
+[![Pair Code](https://img.shields.io/badge/Google-Pair%20Code-blue?style=for-the-badge&logo=Google)](https://TREKKER_MD-website-theta.vercel.app/)
 
 
 
@@ -59,7 +59,7 @@ Fork this repo and give it a ⭐ to support Pkdriller!
 [![Deploy on Railway](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/login)
 
 ---
-
+]
 #### 🔵 Toystack
 
 [![Deploy on Toystack](https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=toystack&logoColor=white)](https://toystack.ai)

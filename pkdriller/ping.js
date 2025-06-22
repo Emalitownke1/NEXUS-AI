@@ -40,7 +40,7 @@ zokou({ nomCom: "ping", categorie: "General" }, async (dest, zk, commandeOptions
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
               newsletterJid: '120363288304618280@newsletter',
-              newsletterName: 'NEXUS-AI',
+              newsletterName: 'TREKKER_MD',
               serverMessageId: 143},
         externalAdReply: {
           
